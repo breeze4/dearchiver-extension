@@ -15,4 +15,4 @@ dearchiver-extension/
 
 ## Development Status
 
-Basic project structure initialized. No functionality implemented yet.
+Basic version complete. Able to be used as unpacked extension.
