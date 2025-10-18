@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Dearchiver",
   "version": "0.1.0",
-  "description": "Open links in the Internet Archive Wayback Machine via context menu",
+  "description": "Open links in archive.is via context menu",
   "permissions": [
     "contextMenus"
   ],

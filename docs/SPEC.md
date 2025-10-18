@@ -1,14 +1,14 @@
 # Dearchiver Extension Specification
 
 ## Overview
-Chrome extension that adds a contextual menu option to open links in the Internet Archive (Wayback Machine).
+Chrome extension that adds a contextual menu option to open links in archive.is.
 
 ## Core Functionality
 
 ### Context Menu Integration
 - Add a context menu item that appears when right-clicking on a link
-- Menu item labeled appropriately to indicate it will open the link in Internet Archive
-- When clicked, opens the Internet Archive Wayback Machine with the target URL
+- Menu item labeled appropriately to indicate it will open the link in archive.is
+- When clicked, opens archive.is with the target URL
 
 ## Technical Requirements
 
